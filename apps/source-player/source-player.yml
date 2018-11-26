@@ -1,0 +1,36 @@
+name: 'Source Player'
+description: 'A full functional video player for English learner.'
+website: 'https://circleapps.co'
+category: Entertainment
+repository: 'https://github.com/circleapps/sourceplayer'
+keywords:
+    - 'video player'
+    - video
+    - player
+    - subtitle
+    - YouTube
+    - mpv
+    - dictionary
+    - word
+    - 'word book'
+screenshots:
+  -
+    imageUrl: 'https://circleapps.co/img/screenshots/popup_big.png'
+    caption: 'Pop up dictionary'
+    imageLink: 'https://circleapps.co'
+  -
+    imageUrl: 'https://circleapps.co/img/screenshots/loop_big.jpg'
+    caption: 'Loop lines'
+    imageLink: 'https://circleapps.co'
+  -
+    imageUrl: 'https://circleapps.co/img/screenshots/web_dict_big.png'
+    caption: 'Web dictionaries'
+    imageLink: 'https://circleapps.co'
+  -
+    imageUrl: 'https://circleapps.co/img/screenshots/youtube_big.png'
+    caption: 'YouTube browser and player'
+    imageLink: 'https://circleapps.co'
+  -
+    imageUrl: 'https://circleapps.co/img/screenshots/word_book_big.png'
+    caption: 'Word Book'
+    imageLink: 'https://circleapps.co'
